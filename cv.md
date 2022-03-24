@@ -31,7 +31,6 @@ alert( result );
 
 ##### Education:
 Belarusian State Academy of Physical Culture and Sports
-
 Belarusian State University of Economy
 
 ---
